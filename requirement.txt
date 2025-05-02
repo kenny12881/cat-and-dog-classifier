@@ -1,0 +1,4 @@
+tensorflow
+streamlit as st
+numpy as np
+pillow
